@@ -8,6 +8,15 @@
 *.so
 *.dylib
 
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
 # Test binary, built with `go test -c`
 *.test
 
