@@ -12,3 +12,6 @@ Open browser
 
 Click on Topics
 - Check the `test` topic message value sent by Kafka producer.
+
+___
+Reference: MBA ARCHITECTURE FULL CYCLE. Apache Kafka. 2024. Available at: https://plataforma.fullcycle.com.br. Accessed on: Nov. 3, 2024.
