@@ -1,4 +1,4 @@
-# Kafka Hello World
+# Kafka Producer
 
 Run
 - `docker-compose up -d`
